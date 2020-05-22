@@ -1,0 +1,14 @@
+.form-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: -webkit-fill-available;
+}
+
+.form {
+    width: 30vw;
+    height: 60vh;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px 1px hsl(0, 0%, 85%);
+}
