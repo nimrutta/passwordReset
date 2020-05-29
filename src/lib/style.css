@@ -12,3 +12,22 @@
     border-radius: 5px;
     box-shadow: 1px 1px 5px 1px hsl(0, 0%, 85%);
 }
+
+form > div {
+    margin: 0 0 0 20%;
+}
+
+.form label {
+    display: block;
+    text-align: left;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.form input {
+    display: block;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 4px 0 0 0;
+    border-width: 1px;
+}
