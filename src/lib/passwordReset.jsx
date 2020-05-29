@@ -22,6 +22,7 @@ function PasswordReset({title = 'Reset Your Password'}){
                   <input type="password"/>
                 </div>
 
+                <button type= 'submit'>SUMBIT</button>
               </form>
           </div>
         );
